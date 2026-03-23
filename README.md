@@ -47,7 +47,8 @@ Visualized patterns for better understanding
 │── pandas.ipynb        # Main analysis notebook
 │── README.md           # Documentation
 │── data/               # Dataset files
-│── screenshots/        # Output images ```
+│── screenshots/        # Output images
+---
 
 ## Installation
 git clone https://github.com/ganeshnaik-ai/pandas_learning.git
