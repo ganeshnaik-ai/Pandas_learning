@@ -42,13 +42,13 @@ Visualized patterns for better understanding
 * **Tool:** Jupyter Notebook
 
 ## 📂 Project Structure
+
 ```text
 📁 Pandas-Data-Analysis
 │── pandas.ipynb        # Main analysis notebook
 │── README.md           # Documentation
 │── data/               # Dataset files
 │── screenshots/        # Output images
----
 
 ## Installation
 git clone https://github.com/ganeshnaik-ai/pandas_learning.git
