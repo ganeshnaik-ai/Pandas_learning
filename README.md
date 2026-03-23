@@ -46,7 +46,7 @@ Tool: Jupyter Notebook
 │── data/               # Dataset files
 │── screenshots/        # Output images
 ## Installation
-git clone https://github.com/your-username/pandas-project.git
+git clone https://github.com/ganeshnaik-ai/pandas_learning.git
 cd pandas-project
 pip install pandas numpy matplotlib seaborn
 ## Usage
@@ -83,5 +83,5 @@ Commit changes
 Submit a pull requests
 ## Author
 Ganesh Naik
-GitHub: https://github.com/your-username
+GitHub: https://github.com/ganeshnaik-ai
 ⭐ Support
