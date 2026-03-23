@@ -28,18 +28,21 @@ Applied filtering, sorting, and grouping operations
 Generated insights using aggregation functions
 Visualized patterns for better understanding
 ## Features
-✔ Data Cleaning & Preprocessing
-✔ Handling Missing Values
-✔ Data Filtering & Sorting
-✔ GroupBy & Aggregations
-✔ Exploratory Data Analysis (EDA)
-✔ Basic Data Visualization
-##Tech Stack
-Language: Python 🐍
-Libraries: Pandas, NumPy
-Visualization: Matplotlib / Seaborn
-Tool: Jupyter Notebook
-📂 Project Structure
+* ✔ Data Cleaning & Preprocessing
+* ✔ Handling Missing Values
+* ✔ Data Filtering & Sorting
+* ✔ GroupBy & Aggregations
+* ✔ Exploratory Data Analysis (EDA)
+* ✔ Basic Data Visualization
+
+## Tech Stack
+* **Language:** Python 🐍
+* **Libraries:** Pandas, NumPy
+* **Visualization:** Matplotlib / Seaborn
+* **Tool:** Jupyter Notebook
+
+## 📂 Project Structure
+```text
 📁 Pandas-Data-Analysis
 │── pandas.ipynb        # Main analysis notebook
 │── README.md           # Documentation
